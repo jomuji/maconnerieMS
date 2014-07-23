@@ -375,14 +375,14 @@
 				}
 			},
 			messages: {
-				name: "Please enter your name.",
-				lastname: "Please enter your last name.",
+				name: "Veuillez entrer votre prenom.",
+				lastname: "Veuillez entrer votre nom.",
 				email: {
-					required: "Please enter email.",
-					email: "Please enter valid email"
+					required: "Veuillez entrer votre courriel.",
+					email: "Entrez un courriel valide"
 				},
-				phone: "Please enter a phone.",
-				comment: "Please enter a comment."
+				phone: "Veuillez entrer un numero de téléphone.",
+				comment: "Veuilles entrer un commentaire."
 			},
 		}); /*========================================*/
 	});
@@ -400,27 +400,22 @@
 			$("#map-contact").gMap({
 			markers: [{
 				address: "",
-				html: '<h4>Office</h4>' +
+				html: '<h4>Maçonnerie MS</h4>' +
 					'<address>' +
 					'<div>' +
-					'<div><b>Address:</b></div>' +
-					'<div>Envato Pty Ltd, 13/2<br> Elizabeth St Melbourne VIC 3000,<br> Australia</div>' +
+					'<div><b>Addresse:</b></div>' +
+					'<div>48 rue Saint-Pierre,<br> QC, Canada</div>' +
 					'</div>' +
 					'<div>' +
-					'<div><b>Phone:</b></div>' +
-					'<div>+1 (408) 786 - 5117</div>' +
+					'<div><b>Téléphone:</b></div>' +
+					'<div>(581) 717-1315</div>' +
 					'</div>' +
-					'<div>' +
-					'<div><b>Fax:</b></div>' +
-					'<div>+1 (408) 786 - 5227</div>' +
-					'</div>' +
-					'<div>' +
 					'<div><b>Email:</b></div>' +
-					'<div><a href="mailto:info@mannatstudio.com">info@mannatstudio.com</a></div>' +
+					'<div><a href="mailto:info@maconneriems.com">info@maconneriems.com</a></div>' +
 					'</div>' +
 					'</address>',
-				latitude: -33.87695388579145,
-				longitude: 151.22183918952942,
+				latitude: 48.443963,
+				longitude: -71.666848,
 				icon: {
 					image: "images/pin.png",
 					iconsize: [35, 48],
@@ -432,11 +427,15 @@
 				iconsize: [35, 48],
 				iconanchor: [17, 48]
 			},
-			latitude: -33.87695388579145,
-			longitude: 151.22183918952942,
-			zoom: 19,
+			latitude: 48.443963,
+			longitude: -71.666848,
+			zoom: 15,
 		});
 	});
+
+
+
+
 	/* ==============================================
 	Animated Items
 	=============================================== */	

@@ -75,7 +75,7 @@ header{
 header#optional{
 	position:absolute;
 	width:100%;
-	padding:15px;
+	padding:0;
 	z-index:100;
 	background:none;
 }
@@ -1076,4 +1076,20 @@ header#optional{
 }
 .visible {
     visibility: visible;
+}
+/* === creditation === */
+ul.creditation{
+    list-style: none;
+    width:600px;
+    margin:20px auto;
+    padding:0;
+}
+ul.creditation li{
+    display: inline-block;
+    text-align: center;
+    margin:0 6px;
+}
+
+.top-boxes a{
+   color: #666666; 
 }
