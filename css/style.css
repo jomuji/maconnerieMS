@@ -658,7 +658,7 @@ header#optional{
 
 /* === Blog Style === */
 .blog-text{
-	padding:0 0 0 25px;
+	padding:0 0 0 0;
 	overflow:hidden;
 }
 .blog-text a.my-btn{
@@ -1092,4 +1092,11 @@ ul.creditation li{
 
 .top-boxes a{
    color: #666666; 
+}
+.breadcrumb-links a{
+ color: #ffffff;
+    font-weight: bold;
+}
+.site-text{
+font-size: 14px;
 }
