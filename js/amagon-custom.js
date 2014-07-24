@@ -17,6 +17,7 @@
 						startheight:600,
 						hideThumbs:10,
 						fullWidth:"on",
+                        lazyLoad:"on"
 					});
 	
 			});	//ready
@@ -32,6 +33,7 @@
 						startheight:500,
 						hideThumbs:10,
 						fullWidth:"on",
+                        lazyLoad:"on"
 					});
 	
 			});	//ready
