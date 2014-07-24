@@ -375,14 +375,14 @@
 				}
 			},
 			messages: {
-				name: "Veuillez entrer votre prenom.",
+				name: "Veuillez entrer votre nom.",
 				lastname: "Veuillez entrer votre nom.",
 				email: {
 					required: "Veuillez entrer votre courriel.",
 					email: "Entrez un courriel valide"
 				},
 				phone: "Veuillez entrer un numero de téléphone.",
-				comment: "Veuilles entrer un commentaire."
+				comment: "Veuillez entrer un commentaire."
 			},
 		}); /*========================================*/
 	});
