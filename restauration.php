@@ -54,7 +54,7 @@
                                 <li class="circle"><a href="residentiel.php">Residentiel</a></li>
                                 <li class="circle"><a href="commercial.php">Commercial</a></li>
                                 <li class="circle active"><a href="restauration.php">Restauration</a></li>
-                                <li class="circle"><a href="realisations.html">Réalisations</a></li>
+                                <li class="circle"><a href="realisations.php">Réalisations</a></li>
                                 <li class="circle"><a href="contact.html">Contact Us</a></li>
                             </ul>
                         </div>

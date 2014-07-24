@@ -289,6 +289,206 @@
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       <!--Portfolio Item Loop Start-->
+                        <div class="mix commercial col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_13.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_13.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                       
+                       <!--Portfolio Item Loop Start-->
+                        <div class="mix commercial col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_14.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_14.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                       
+                       <!--Portfolio Item Loop Start-->
+                        <div class="mix residentiel col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_15.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_15.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                       
+                       <!--Portfolio Item Loop Start-->
+                        <div class="mix residentiel col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_16.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_16.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                      
+                      <!--Portfolio Item Loop Start-->
+                        <div class="mix residentiel col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_17.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_17.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                      
+                      <!--Portfolio Item Loop Start-->
+                        <div class="mix residentiel col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_18.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_18.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                      
+                      <!--Portfolio Item Loop Start-->
+                        <div class="mix restauration col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_19.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_19.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                      
+                      <!--Portfolio Item Loop Start-->
+                        <div class="mix residentiel col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_20.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_20.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                      
+                      <!--Portfolio Item Loop Start-->
+                        <div class="mix restauration col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_21.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_21.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                      
+                      <!--Portfolio Item Loop Start-->
+                        <div class="mix rastauration col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_22.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_22.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                      
+                      <!--Portfolio Item Loop Start-->
+                        <div class="mix restauration col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_23.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_23.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                      
+                      <!--Portfolio Item Loop Start-->
+                        <div class="mix commercial col-sm-4">
+                        	<div class="shadow-wrap">
+                                <div class="item-thumbs">
+                                    <a href="images/portfolio/img_24.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
+                                        <span class="overlay-img"></span>
+                                        <span class="overlay-img-thumb"><i class="fa fa-plus"></i></span>                                        	
+                                    </a>
+                                    <img src="images/portfolio/img_24.jpg" alt="">
+                                </div>
+                                <h3><a href="#">A Night In Garden</a></h3>
+                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                            </div>
+                        </div>
+            			<!--Portfolio Item Loop End-->
+                       
+                       
                         
                         <div class="clearfix"></div>
                         
