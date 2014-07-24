@@ -115,7 +115,7 @@
             			<!--Portfolio Item Loop End-->
                         
                         <!--Portfolio Item Loop Start-->
-                        <div class="mix residentiel col-sm-4">
+                        <div class="mix commercial col-sm-4">
                         	<div class="shadow-wrap">
                                 <div class="item-thumbs">
                                     <a href="images/portfolio/img_2.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
@@ -131,7 +131,7 @@
             			<!--Portfolio Item Loop End-->
                         
                         <!--Portfolio Item Loop Start-->
-                        <div class="mix commercial col-sm-4">
+                        <div class="mix restauration col-sm-4">
                         	<div class="shadow-wrap">
                                 <div class="item-thumbs">
                                     <a href="images/portfolio/img_3.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
@@ -163,7 +163,7 @@
             			<!--Portfolio Item Loop End-->
                         
                         <!--Portfolio Item Loop Start-->
-                        <div class="mix commercial col-sm-4">
+                        <div class="mix residentiel col-sm-4">
                         	<div class="shadow-wrap">
                                 <div class="item-thumbs">
                                     <a href="images/portfolio/img_5.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
@@ -179,7 +179,7 @@
             			<!--Portfolio Item Loop End-->
                         
                         <!--Portfolio Item Loop Start-->
-                        <div class="mix restauration col-sm-4">
+                        <div class="mix residentiel col-sm-4">
                         	<div class="shadow-wrap">
                                 <div class="item-thumbs">
                                     <a href="images/portfolio/img_6.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
@@ -195,7 +195,7 @@
             			<!--Portfolio Item Loop End-->
                         
                         <!--Portfolio Item Loop Start-->
-                        <div class="mix commercial col-sm-4">
+                        <div class="mix residentiel col-sm-4">
                         	<div class="shadow-wrap">
                                 <div class="item-thumbs">
                                     <a href="images/portfolio/img_7.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
@@ -211,7 +211,7 @@
             			<!--Portfolio Item Loop End-->
                         
                         <!--Portfolio Item Loop Start-->
-                        <div class="mix residentiel col-sm-4">
+                        <div class="mix restauration col-sm-4">
                         	<div class="shadow-wrap">
                                 <div class="item-thumbs">
                                     <a href="images/portfolio/img_8.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
@@ -243,7 +243,7 @@
             			<!--Portfolio Item Loop End-->
                         
                         <!--Portfolio Item Loop Start-->
-                        <div class="mix restauration col-sm-4">
+                        <div class="mix residentiel col-sm-4">
                         	<div class="shadow-wrap">
                                 <div class="item-thumbs">
                                     <a href="images/portfolio/img_10.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
@@ -259,7 +259,7 @@
             			<!--Portfolio Item Loop End-->
                         
                         <!--Portfolio Item Loop Start-->
-                        <div class="mix restauration col-sm-4">
+                        <div class="mix residentiel col-sm-4">
                         	<div class="shadow-wrap">
                                 <div class="item-thumbs">
                                     <a href="images/portfolio/img_11.jpg" class="fancybox hover-wrap" data-fancybox-group="gallery" title="Lorem ipsum dolor sit amet">
