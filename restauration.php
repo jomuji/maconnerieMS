@@ -104,7 +104,7 @@
                     <div class="col-sm-6 blog-wrap animated" data-animation="bounceInUp" data-animation-delay="400">
                     	<div class="shadow-wrap">
                         	<div class="item-thumbs">
-                        		<a href="#"><img src="images/img-murs-droits.jpg" alt=""></a>
+                        		<a href="#"><img src="images/img-construction-ms.jpg" alt=""></a>
                             </div>
                             
                             <div class="blog-text">
@@ -122,7 +122,7 @@
                     <div class="col-sm-6 blog-wrap animated" data-animation="bounceInUp" data-animation-delay="600">
                     	<div class="shadow-wrap">
                         	<div class="item-thumbs">
-                        		<a href="#"><img src="images/img-hydro-mobile-m2.png" alt=""></a>
+                        		<a href="#"><img src="images/img-pierre-deco.jpg" alt=""></a>
                             </div>
                             
                             <div class="blog-text">
@@ -192,7 +192,7 @@
                             <a href="residentiel.php">Résidentiel</a>
                             <a href="commercial.php">Commercial</a>
                             <a href="restauration.php">Restauration</a>
-                            <a href="realisations.html">Réalisations</a>
+                            <a href="realisations.php">Réalisations</a>
                             <a href="contact.html">Contactez-nous</a>
                         </div>
                     </div>

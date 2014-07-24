@@ -445,7 +445,7 @@
                             <a href="residentiel.php">Résidentiel</a>
                             <a href="commercial.php">Commercial</a>
                             <a href="restauration.php">Restauration</a>
-                            <a href="realisations.html">Réalisations</a>
+                            <a href="realisations.php">Réalisations</a>
                             <a href="contact.html">Contactez-nous</a>
                         </div>
                     </div>

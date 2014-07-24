@@ -406,7 +406,7 @@ header#optional{
 	padding:15px 0;	
 }
 .nav-bg{
-	background:#2a333b;
+	background:#010101;
 	padding:0;
 }
 .menu-map{
@@ -1081,8 +1081,9 @@ header#optional{
 ul.creditation{
     list-style: none;
     width:600px;
-    margin:20px auto;
+    margin:30px auto;
     padding:0;
+    height: 70px;
 }
 ul.creditation li{
     display: inline-block;

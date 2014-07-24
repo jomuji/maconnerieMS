@@ -51,10 +51,10 @@
                         <div class="col-lg-10 col-md-10 col-sm-12">
                             <ul id="jetmenu" class="jetmenu">
                                 <li class="circle"><a href="index.php">Accueil</a></li>
-                                <li class="circle active"><a href="residentiel.php">Residentiel</a></li>
+                                <li class="circle"><a href="residentiel.php">Residentiel</a></li>
                                 <li class="circle"><a href="commercial.php">Commercial</a></li>
                                 <li class="circle"><a href="restauration.php">Restauration</a></li>
-                                <li class="circle"><a href="realisations.php">Réalisations</a></li>
+                                <li class="circle active"><a href="realisations.php">Réalisations</a></li>
                                 <li class="circle"><a href="contact.html">Contact Us</a></li>
                             </ul>
                         </div>
@@ -526,16 +526,15 @@
             	<div class="container">
                 	<div class="row">
                     	<div class="col-sm-6">
-                        	Copyright © 2014 Amagon. All Right Reserved 
+                        	Copyright © 2014 Maçonnerie MS. Tous droits réservés.
                         </div>
                         <div class="col-sm-6 text-right">
-                        	<a href="#">Home</a>
-                            <a href="#">Our News</a>
-                            <a href="#">Our Work</a>
-                            <a href="#">Contact</a>
-                            <a href="#">Privacy</a>
-                            <a href="#">Disclaimer</a>
-                            <a href="#">Terms &amp; Conditions</a>
+                        	<a href="index.php">Accueil</a>
+                            <a href="residentiel.php">Résidentiel</a>
+                            <a href="commercial.php">Commercial</a>
+                            <a href="restauration.php">Restauration</a>
+                            <a href="realisations.php">Réalisations</a>
+                            <a href="contact.html">Contactez-nous</a>
                         </div>
                     </div>
                 </div>
