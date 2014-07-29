@@ -23,10 +23,30 @@
         
         <!-- xxx Base Stylesheet xxx -->
         <link rel="stylesheet" href="css/base.css">
+         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+            <link rel="stylesheet" href="css/animate.min.css">
+            <link rel="stylesheet" href="css/style.css">
+            <link rel="stylesheet" href="css/jetmenu.css">
+            <link rel="stylesheet" href="css/flexslider.css">
+            <link rel="stylesheet" href="css/font-awesome.min.css">
+            <link rel="stylesheet" href="css/shortcodes.css">
+            <link rel="stylesheet" href="css/grid.css">
+            <link rel="stylesheet" href="css/bootstrap-select.min.css">
+            <link rel="stylesheet" href="css/navstylechange.css">
+            <link rel="stylesheet" href="css/owl.carousel.css">
+            <link rel="stylesheet" href="css/owl.theme.css">
+            <link rel="stylesheet" href="css/jquery.fancybox.css">
+            <link rel="stylesheet" href="css/country-flag.css">
+            
+            <link rel="stylesheet" href="rs-plugin/css/settings-ie8.css"
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+            <script src="js/modernizr-2.6.2.min.js"></script>
+        <![endif]-->
         <link rel="stylesheet" class="alt" href="css/theme-red.css">
-        
-
-        <script src="js/modernizr-2.6.2.min.js"></script>
     </head>
     <body class="wide">
 
@@ -45,7 +65,7 @@
                     <div class="row">
                         <div class="col-lg-2 col-md-10 col-sm-3">
                             <div class="logo">
-                                <a href=""><img src="images/maconnerieMS-logo.png" alt="Amagon Logo"></a>
+                                <a href="index.php"><img src="images/maconnerieMS-logo.png" alt="Amagon Logo"></a>
                             </div>
                         </div>
                         <div class="col-lg-10 col-md-10 col-sm-12">
