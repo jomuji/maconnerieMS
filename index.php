@@ -149,7 +149,7 @@
                                 data-endspeed="500"
                                 data-endeasing="Power4.easeIn"
                                 data-captionhidden="on"
-                                style="z-index: 8"><a class="my-btn btn-large shadow" href="realisations.html">Nos projets</a> <a class="my-btn btn-large shadow" href="contact.html">Contactez-nous</a>
+                                style="z-index: 8"><a class="my-btn btn-large shadow" href="realisations.php">Nos projets</a> <a class="my-btn btn-large shadow" href="contact.html">Contactez-nous</a>
                             </div>                            
                         </li>
                         <!-- SLIDE  -->
@@ -216,7 +216,7 @@
                                 data-endspeed="500"
                                 data-endeasing="Power4.easeIn"
                                 data-captionhidden="on"
-                                style="z-index: 8"><a class="my-btn btn-large shadow" href="realsations.html">Nos projets</a> <a class="my-btn btn-large shadow" href="contact.html">Contactez-nous</a>
+                                style="z-index: 8"><a class="my-btn btn-large shadow" href="realsations.php">Nos projets</a> <a class="my-btn btn-large shadow" href="contact.html">Contactez-nous</a>
                             </div>
                         </li>
                         <!-- SLIDE  -->
@@ -285,7 +285,7 @@
                                 data-endspeed="500"
                                 data-endeasing="Power4.easeIn"
                                 data-captionhidden="on"
-                                style="z-index: 8"><a class="my-btn btn-large shadow" href="realisations.html">Nos projets</a> <a class="my-btn btn-large shadow" href="contact.html">Contactez-nous</a>
+                                style="z-index: 8"><a class="my-btn btn-large shadow" href="realisations.php">Nos projets</a> <a class="my-btn btn-large shadow" href="contact.html">Contactez-nous</a>
                             </div>
                             
                         </li>
