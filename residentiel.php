@@ -206,7 +206,7 @@
             	<div class="container">
                 	<div class="row">
                     	<div class="col-sm-6">
-                        	Copyright © 2014 Maçonnerie MS. Tous droits réservés. 
+                        	Copyright © 2014 Maçonnerie MS. Tous droits réservés. Réalisation <a href="http://www.stylla-web.com/" target="_blank" >Stylla-web.com</a> 
                         </div>
                         <div class="col-sm-6 text-right">
                         	<a href="index.php">Accueil</a>
