@@ -5,10 +5,10 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>:: Maçonnerie MS ::</title>
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
         
         <!-- xxx Favicons xxx -->
         <link rel="shortcut icon" href="favicon/favicon.ico">
@@ -63,7 +63,7 @@
             <div class="nav-bg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-2 col-md-10 col-sm-3">
+                        <div class="col-lg-2 col-md-2 col-sm-3">
                             <div class="logo">
                                 <a href="index.php"><img src="images/maconnerieMS-logo.png" alt="Amagon Logo"></a>
                             </div>
@@ -75,7 +75,7 @@
                                 <li class="circle active"><a href="commercial.php">Commercial</a></li>
                                 <li class="circle"><a href="restauration.php">Restauration</a></li>
                                 <li class="circle"><a href="realisations.php">Réalisations</a></li>
-                                <li class="circle"><a href="contact.html">Contact Us</a></li>
+                                <li class="circle"><a href="contact.html">Contact</a></li>
                             </ul>
                         </div>
                     </div>

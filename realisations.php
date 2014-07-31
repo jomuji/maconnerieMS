@@ -5,10 +5,10 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Amagon : Flat Multipurpose HTML5 Business Template</title>
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
         
         <!-- xxx Favicons xxx -->
         <link rel="shortcut icon" href="favicon/favicon.ico">
@@ -63,7 +63,7 @@
             <div class="nav-bg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-2 col-md-10 col-sm-3">
+                        <div class="col-lg-2 col-md-2 col-sm-3">
                             <div class="logo">
                                 <a href="index.php"><img src="images/maconnerieMS-logo.png" alt="Amagon Logo"></a>
                             </div>
@@ -75,7 +75,7 @@
                                 <li class="circle"><a href="commercial.php">Commercial</a></li>
                                 <li class="circle"><a href="restauration.php">Restauration</a></li>
                                 <li class="circle active"><a href="realisations.php">Réalisations</a></li>
-                                <li class="circle"><a href="contact.html">Contact Us</a></li>
+                                <li class="circle"><a href="contact.html">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -128,8 +128,7 @@
                                     </a>
                                     <img src="images/portfolio/img_1.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Freelance Desktop</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -144,8 +143,7 @@
                                     </a>
                                     <img src="images/portfolio/img_2.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Walking Man</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -160,8 +158,7 @@
                                     </a>
                                     <img src="images/portfolio/img_3.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Blue World Under Sea</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -176,8 +173,7 @@
                                     </a>
                                     <img src="images/portfolio/img_4.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Vision Eye</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -192,8 +188,7 @@
                                     </a>
                                     <img src="images/portfolio/img_5.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Coffee With Love</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -208,8 +203,7 @@
                                     </a>
                                     <img src="images/portfolio/img_6.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Amazing Nights</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -224,8 +218,7 @@
                                     </a>
                                     <img src="images/portfolio/img_7.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Our Exhibiton</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -240,8 +233,7 @@
                                     </a>
                                     <img src="images/portfolio/img_8.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Evening Riverside</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                               
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -256,8 +248,7 @@
                                     </a>
                                     <img src="images/portfolio/img_9.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Hotel Photography</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -272,8 +263,7 @@
                                     </a>
                                     <img src="images/portfolio/img_10.jpg" alt="">
                                 </div>
-                                <h3><a href="#">Tokyo Boats At Bridge</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                              
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -288,8 +278,7 @@
                                     </a>
                                     <img src="images/portfolio/img_11.jpg" alt="">
                                 </div>
-                                <h3><a href="#">High Mountains</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                               
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -304,8 +293,7 @@
                                     </a>
                                     <img src="images/portfolio/img_12.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                               
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -326,8 +314,7 @@
                                     </a>
                                     <img src="images/portfolio/img_13.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -342,8 +329,7 @@
                                     </a>
                                     <img src="images/portfolio/img_14.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -358,8 +344,7 @@
                                     </a>
                                     <img src="images/portfolio/img_15.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -374,8 +359,7 @@
                                     </a>
                                     <img src="images/portfolio/img_16.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -390,8 +374,7 @@
                                     </a>
                                     <img src="images/portfolio/img_17.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -406,8 +389,7 @@
                                     </a>
                                     <img src="images/portfolio/img_18.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -422,8 +404,7 @@
                                     </a>
                                     <img src="images/portfolio/img_19.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -438,8 +419,7 @@
                                     </a>
                                     <img src="images/portfolio/img_20.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -454,8 +434,7 @@
                                     </a>
                                     <img src="images/portfolio/img_21.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -470,8 +449,7 @@
                                     </a>
                                     <img src="images/portfolio/img_22.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -486,8 +464,7 @@
                                     </a>
                                     <img src="images/portfolio/img_23.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -502,8 +479,7 @@
                                     </a>
                                     <img src="images/portfolio/img_24.jpg" alt="">
                                 </div>
-                                <h3><a href="#">A Night In Garden</a></h3>
-                                <p>Nunc non mollis nulla. Sed consectetur elit id mi consectetur bibendum. Ut enim massa, sodales tempor convallis</p>
+                                
                             </div>
                         </div>
             			<!--Portfolio Item Loop End-->
@@ -512,17 +488,7 @@
                         
                         <div class="clearfix"></div>
                         
-                        <div class="pagination-wrap col-sm-12 text-center">
-                        	<ul class="pagination">
-                                <li><a href="#"><i class="fa fa-angle-left"></i></a></li>
-                                <li class="active"><a href="#">1</a></li>
-                                <li><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
-                                <li><a href="#">4</a></li>
-                                <li><a href="#">5</a></li>
-                                <li><a href="#"><i class="fa fa-angle-right"></i></a></li>
-                            </ul>
-                        </div>
+                        
                         
                         <!--Divider-->
                         <div class="col-sm-12">

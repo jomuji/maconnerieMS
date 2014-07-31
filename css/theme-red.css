@@ -14,3 +14,12 @@ a, h3, h1, .jetmenu > li:hover > a, .jetmenu > li.active > a, .download-icon a, 
 .jetmenu > li:hover > a, .jetmenu > li.active > a{
     color:#877247;
 }
+@media screen and (max-width: 1080px) {
+    .parallax-image {
+	background-image:url(../images/parallax-bg.jpg);
+	background-color:#CCC;
+	color:#FFF;
+    background-attachment: scroll;
+    
+    }
+}

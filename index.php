@@ -2,10 +2,11 @@
 <html>
     <head>
         <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>:: Maçonnerie MS ::</title>
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width">
+        
         
         <!-- xxx Favicons xxx -->
         <link rel="shortcut icon" href="favicon/favicon.ico">
@@ -62,19 +63,19 @@
             <div class="nav-bg">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-2 col-md-10 col-sm-3">
+                        <div class="col-lg-2 col-md-2 col-sm-3">
                             <div class="logo">
-                                <a href="index.php"><img src="images/maconnerieMS-logo.png" alt="Amagon Logo"></a>
+                                <a href="index.php"><img src="images/maconnerieMS-logo.png" alt="Maçonnerie MS Logo" ></a>
                             </div>
                         </div>
-                        <div class="col-lg-10 col-md-10 col-sm-12">
+                        <div class="col-lg-10 col-md-10 col-sm-12">                           
                             <ul id="jetmenu" class="jetmenu">
                                 <li class="circle active"><a href="index.php">Accueil</a></li>
                                 <li class="circle"><a href="residentiel.php">Residentiel</a></li>
                                 <li class="circle"><a href="commercial.php">Commercial</a></li>
                                 <li class="circle"><a href="restauration.php">Restauration</a></li>
                                 <li class="circle"><a href="realisations.php">Réalisations</a></li>
-                                <li class="circle"><a href="contact.html">Contact Us</a></li>
+                                <li class="circle"><a href="contact.html">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -324,7 +325,7 @@
                 	<div class="col-sm-12">
                     	<h2 class="home-title">Ce que nous proposons</h2>
                     </div>
-                    <div class="col-sm-4 animated top-boxes" data-animation="fadeInLeft" data-animation-delay="600">
+                    <div class="col-sm-4 top-boxes" >
                     <a href="residentiel.php">
                     	<div class="shadow-wrap">
                         	<div class="icon-holder">
@@ -335,7 +336,7 @@
                         </div>
                     </a>
                     </div>
-                    <div class="col-sm-4 animated top-boxes" data-animation="fadeInLeft" data-animation-delay="900">
+                    <div class="col-sm-4 top-boxes" >
                     <a href="commercial.php">
                        	<div class="shadow-wrap">
                         	<div class="icon-holder">
@@ -346,7 +347,7 @@
                         </div>
                     </a>
                     </div>
-                    <div class="col-sm-4 animated top-boxes" data-animation="fadeInLeft" data-animation-delay="1200">
+                    <div class="col-sm-4 top-boxes" >
                     <a href="restauration.php">
                     	<div class="shadow-wrap">
                         	<div class="icon-holder">
